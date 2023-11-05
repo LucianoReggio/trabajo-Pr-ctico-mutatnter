@@ -1,0 +1,40 @@
+caso nro 1 (José Hernandez):
+secuencia ADN:
+ATCGAT
+ATGCAT
+AGGTAT
+CAAATT
+CGAGCA
+GACGAA
+No es un mutante
+-Aunque cuente con una columna de 4 "T" es la única que se encuentra en el ADN
+caso nro 2 (Luis Rodriguez):
+secuencia ADN:
+CAAACT
+AAAAAA
+CTAGGG
+ACCCCT
+TTGGGA
+AGTAGA
+Es un mutante
+-Tanto en la fila 2 como en la fila 4 se encuentran secuencias de 4 letras iguales
+caso nro 3 (Roberto Gonzalez):
+secuencia ADN:
+TGCAGA
+AGCTAT
+GCATCG
+GATGCA
+GCGGAG
+GATCTA
+No es un mutante
+- -Aunque cuente con una columna de 4 "G" es la única que se encuentra en el ADN
+caso nro 4 (Jorge Martín):
+secuencia ADN:
+AAAATT
+AATTTA
+GTATTA
+TGCATT
+AAAGGT
+TGGAGT
+Es un mutante
+-La siguiente persona tiene varias secuencias de 4 letras iguales vamos a reclutarlo.
